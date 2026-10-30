@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yourtrimoryn.vercel.app/sitemap.xml
